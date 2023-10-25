@@ -7,7 +7,7 @@ The global outbreak of the new coronavirus epidemic has promoted the development
 
 # Requirements
 
-- tensorflow
+- tensorflow == 1.14
 - keras
 - keras_bert
 
