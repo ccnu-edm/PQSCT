@@ -1,4 +1,4 @@
-# Response Speed Enhanced Fine-grained Knowledge Tracing: A Multi-task Learning Perspective
+# PQSCT: Pseudo-Siamese BERT for Concept Tagging With Both Questions and Solutions
 The code is related to the paper [PQSCT: Pseudo-Siamese BERT for Concept Tagging With Both Questions and Solutions](https://ieeexplore.ieee.org/abstract/document/10123979).
 
 # Overview
